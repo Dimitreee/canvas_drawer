@@ -1,0 +1,23 @@
+{
+  "name": "canvas_drawer",
+  "version": "1.0.0",
+  "description": "simple canvas drawer app",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "babel-core": "^6.24.0",
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.24.0",
+    "moment": "^2.18.1",
+    "webpack": "^2.3.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.24.0",
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.24.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dmitry Danev",
+  "license": "ISC"
+}
